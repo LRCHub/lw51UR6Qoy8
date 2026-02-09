@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "藍才",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-09T07:22:23.490292Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "藍才",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_藍才_Eve.txt"
+    }
+  ]
+}
